@@ -1,7 +1,7 @@
 God is Great
 
 
-5. Configure IP Addresses With Telnet Access
+
 The next step is to decide which IP addresses will have access to Telnet,
 and add them with the PuTTY CLI. To select permitted IP’s enter the
 following command (replace the listed IPs with the IPs of the components
